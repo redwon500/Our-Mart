@@ -1,0 +1,7 @@
+{
+  "name": "Our Mart",
+  "description": "A premium, secure, and feature-rich e-commerce platform with AI recommendations, real-time order tracking, and a robust admin dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
